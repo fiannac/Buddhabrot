@@ -1,3 +1,5 @@
+
+
 # Buddhabrot
 <p>Buddhabrot is a fractal shape representing the trajectories of points that escape the most famous fractal in the world, the Mandelbrot. Without getting too deeply inside the math the fractal is drawn by randomly selecting numbers in the complex plane, for each of these we calculate a bunch of values of the sequence:</p>
 
@@ -7,8 +9,9 @@
 
 <p>The code is pretty old and terrible and for some reason I decided to output the image as a ppm, so you will need to process it with ps/gimp, but from this simple code the resoults are pretty amazing, here are some: </p>
 
-
-<img src="https://i.imgur.com/mK7CkOr.jpg">
-
+<div class = "container" align="center" display = "flex" flex-direction = "row">
+<img src="https://i.imgur.com/oJc8TXs.jpg" width =  "30%">
+<img src="https://i.imgur.com/mK7CkOr.jpg" width =  "30%">
+<img src="https://i.imgur.com/lIIlro8.jpg" width =  "30%">
+</div>
 <p>I'm planning to update this project using GPU accelleration!</p>
-
