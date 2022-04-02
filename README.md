@@ -1,0 +1,2 @@
+# Buddhabrot
+Simple Buddhabrot generator
