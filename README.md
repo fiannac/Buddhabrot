@@ -7,7 +7,9 @@
 
 <p>The code is pretty old and terrible and for some reason I decided to output the image as a ppm, so you will need to process it with ps/gimp, but from this simple code the resoults are pretty amazing, here are some: </p>
 
-![alt text](https://i.imgur.com/mK7CkOr.jpg)
+![alt text]()
+
+<img src="https://i.imgur.com/mK7CkOr.jpg" alt="Girl in a jacket" width=1/2 height=1/2>
 
 <p>I'm planning to update this project using GPU accelleration!</p>
 
