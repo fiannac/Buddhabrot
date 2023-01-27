@@ -7,7 +7,7 @@
 
 <p>Each time we compute a new value of Zn we increase the brigthness of the corrisponding pixel on the screen.</p>
 
-<p>The code is pretty old and terrible and for some reason I decided to output the image as a ppm, so you will need to process it with ps/gimp, but from this simple code the resoults are pretty amazing, here are some: </p>
+<p>The code is pretty old and for some reason I decided to output the image as a ppm, so you will need to process it with ps/gimp, but from this simple code the resoults are pretty amazing, here are some: </p>
 
 <div class = "container" align="center" display = "flex" flex-direction = "row">
 <img src="https://i.imgur.com/oJc8TXs.jpg" width =  "30%">
